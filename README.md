@@ -10,6 +10,8 @@ A free AI terminal for agentic coding. Arsminal runs Claude Code, Codex, Gemini,
 
 **Website:** [arsminal.com](https://arsminal.com)
 **Download:** the [latest release](https://github.com/arsentev-ai/arsminal/releases/latest) for macOS (Apple Silicon and Intel), Windows and Linux (AppImage).
+**Homebrew:** `brew install --cask arsentev-ai/tap/arsminal`
+**Cite:** [10.5281/zenodo.24079643](https://doi.org/10.5281/zenodo.24079643)
 
 - Several agents at once, each in its own real terminal.
 - Voice input recognized on your own computer. No cloud.
