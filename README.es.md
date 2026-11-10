@@ -84,7 +84,7 @@ La conexión está **cifrada de extremo a extremo con ML-KEM-768 poscuántico so
   <img src=".github/assets/themes-es.png" width="100%" alt="Cuatro temas de Arsminal: negro, blanco, Novel y Paper">
 </p>
 
-Negro para la noche, blanco para el día, beige cálido y un tema tranquilo para ojos cansados. 12 temas en total, tu propio fondo detrás de cualquier chat y el modo **Auto**: claro de día, oscuro de noche, cambia solo.
+Negro para la noche, blanco para el día, Matrix verde y un tema beige tranquilo para ojos cansados. 12 temas en total, tu propio fondo detrás de cualquier chat y el modo **Auto**: claro de día, oscuro de noche, cambia solo.
 
 ## 🔒 Lo tuyo sigue siendo tuyo
 

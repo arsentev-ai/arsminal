@@ -84,7 +84,7 @@ The link is **end-to-end encrypted with post-quantum ML-KEM-768 on top of X25519
   <img src=".github/assets/themes-en.png" width="100%" alt="Four Arsminal themes: Black, Snow, Novel and Paper">
 </p>
 
-Black for the night, white for the day, warm beige and a calm theme for tired eyes. 12 themes in total, your own wallpaper behind any chat, and **Auto** mode: light by day, dark at night, it switches on its own.
+Black for the night, white for the day, green Matrix and a calm beige theme for tired eyes. 12 themes in total, your own wallpaper behind any chat, and **Auto** mode: light by day, dark at night, it switches on its own.
 
 ## 🔒 What is yours stays yours
 
