@@ -1,0 +1,29 @@
+{
+  "@context": "https://w3id.org/codemeta/3.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Arsminal",
+  "description": "Arsminal is a free desktop application for agentic coding. It runs several AI coding agents (Claude Code, Codex, Gemini, Grok and others) side by side, each in its own live terminal, in one window laid out like a messenger: chats on the left, the conversation on the right.",
+  "version": "1.0.1",
+  "datePublished": "2026-11-06",
+  "dateModified": "2026-11-09",
+  "identifier": "https://doi.org/10.5281/zenodo.24079643",
+  "codeRepository": "https://github.com/arsentev-ai/arsminal",
+  "url": "https://arsminal.com",
+  "downloadUrl": "https://github.com/arsentev-ai/arsminal/releases",
+  "license": "https://github.com/arsentev-ai/arsminal/blob/main/LICENSE.txt",
+  "isAccessibleForFree": true,
+  "operatingSystem": ["macOS", "Windows", "Linux"],
+  "applicationCategory": "Developer tools",
+  "keywords": ["AI terminal", "agentic coding", "AI coding agents", "Claude Code", "terminal emulator", "developer tools", "post-quantum cryptography", "speech recognition"],
+  "author": [
+    {
+      "@type": "Person",
+      "@id": "https://orcid.org/0000-0002-9120-7298",
+      "givenName": "Evgenii",
+      "familyName": "Arsentev",
+      "url": "https://arsentev.ai",
+      "sameAs": ["https://www.wikidata.org/wiki/Q141398931"]
+    }
+  ],
+  "sameAs": ["https://www.wikidata.org/wiki/Q142089482"]
+}
